@@ -1,8 +1,8 @@
-import google from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/google.png'
-import slack from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/slack.png'
-import atlassian from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/atlassian.png'
-import dropbox from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/dropbox.png'
-import shopify from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/shopify.png'
+import google from '../../assets/google.png'
+import slack from '../../assets/slack.png'
+import atlassian from '../../assets/atlassian.png'
+import dropbox from '../../assets/dropbox.png'
+import shopify from '../../assets/shopify.png'
 
 export {
     google,
