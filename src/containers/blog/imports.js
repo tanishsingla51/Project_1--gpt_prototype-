@@ -1,8 +1,8 @@
-import blog01 from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/blog01.png'
-import blog02 from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/blog02.png'
-import blog03 from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/blog03.png'
-import blog04 from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/blog04.png'
-import blog05 from '/Users/tanishsingla/Desktop/100xDevs/React/gpt-3/src/assets/blog05.png'
+import blog01 from '../../assets/blog01.png'
+import blog02 from '../../assets/blog02.png'
+import blog03 from '../../assets/blog03.png'
+import blog04 from '../../assets/blog04.png'
+import blog05 from '../../assets/blog05.png'
 
 export {
     blog01,
